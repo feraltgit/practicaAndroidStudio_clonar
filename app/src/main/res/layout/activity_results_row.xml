@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/thumbnail"
+        android:layout_width="72dip"
+        android:layout_height="72dip"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Card title"
+        android:layout_toRightOf="@+id/thumbnail"
+        android:textAppearance="@android:style/TextAppearance.Holo.Medium"
+        android:layout_marginLeft="?android:attr/listPreferredItemPaddingLeft"/>
+
+
+</RelativeLayout>

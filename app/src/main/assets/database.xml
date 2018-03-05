@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <class name="user">
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff00">
+            <properties>
+                <property name="email"><![CDATA[foo@uoc.edu]]></property>
+                <property name="password"><![CDATA[hello]]></property>
+            </properties>
+        </object>
+    </class>
+    <class name="item">
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff01">
+            <properties>
+                <property name="type"><![CDATA[console]]></property>
+                <property name="name"><![CDATA[PS4 console]]></property>
+                <property name="description"><![CDATA[Enjoy the latest Playstation 4 games, accessories, and more.]]></property>
+                <property name="price"><![CDATA[350.90]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff10.jpg]]></property>
+            </properties>
+        </object>
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff02">
+            <properties>
+                <property name="type"><![CDATA[console]]></property>
+                <property name="name"><![CDATA[Xbox One + Gears Of War]]></property>
+                <property name="description"><![CDATA[Buy the Xbox One console – an all-in-one entertainment system. ]]></property>
+                <property name="price"><![CDATA[295.0]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff11.jpg]]></property>
+            </properties>
+        </object>
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff03">
+            <properties>
+                <property name="type"><![CDATA[skate]]></property>
+                <property name="name"><![CDATA[SKATE MID 5 ROBOT]]></property>
+                <property name="description"><![CDATA[Better way to shop for skateboards. ... one of the largest retailer of skateboards at our Historic Old Mill Warehouse in Bend, Oregon USA.]]></property>
+                <property name="price"><![CDATA[39.90]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff12.jpg]]></property>
+            </properties>
+        </object>
+    </class>
+</data>
